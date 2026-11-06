@@ -1,4 +1,4 @@
-# POSESSION
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3c8852da-b69e-4a91-9956-44954647b6f1" /># POSESSION
 
 POSESSION is a top-down action-puzzle game built in Unity. You play as a Spirit that can possess enemy bodies, borrow their abilities and eject at the right moment to navigate guarded rooms. Guards provide ranged attacks, Heavy enemies smash reinforced walls, and each level combines possession, combat and environmental puzzles.
 
@@ -6,7 +6,8 @@ POSESSION is a top-down action-puzzle game built in Unity. You play as a Spirit 
 
 [Play the WebGL build](https://ruturaj-mohalkar-25.github.io/POSESSION/)
 
-![Level 03 gameplay overview](Docs/gameplay-level-03.png)
+![Level 03 gameplay overview](Docs/gameplay-level-03.png) <img width="1280" height="720" alt="gameplay-level-03" src="https://github.com/user-attachments/assets/67ecc63a-dddc-40c6-8723-99006cb2f718" />
+
 
 ## Controls
 
